@@ -1,6 +1,8 @@
 # hab
  
-Harmful algal bloom species detection
+Harmful algal bloom (HAB) species detection
+
+Classify plankton as a HAB-causing species or not based on images.
 
 ## Files
 Files in `plankton_images_tfds` is [tfds](https://www.tensorflow.org/datasets/api_docs/python/tfds) dataset format which allows the following:
