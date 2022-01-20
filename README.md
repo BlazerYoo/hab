@@ -1,5 +1,4 @@
 # hab
- 
 Harmful algal bloom (HAB) species detection
 
 Classify plankton as a HAB-causing species or not based on images.
